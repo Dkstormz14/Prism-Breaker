@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Prism-Breaker/Scenes/SampleScene.unity
+    path: Assets/Scenes/Global.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
     com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: aa370b84687d0d442ba51be15637423a, type: 2}
