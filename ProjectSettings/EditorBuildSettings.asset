@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Global.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Prism-Breaker/Scenes/Level 1.unity
+    guid: 4ed01528ed138614f9bb710ae33a8aba
+  - enabled: 1
+    path: Assets/Prism-Breaker/Scenes/Level 2.unity
+    guid: c2f3c5d2692bdb1429f59af75b1c8d9b
+  - enabled: 1
+    path: Assets/Prism-Breaker/Scenes/Level 3.unity
+    guid: 93742c65c8100b448a776cde6f553b0a
   m_configObjects:
     com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: aa370b84687d0d442ba51be15637423a, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d65859db84cec8e4f846cc0a1390d693, type: 2}
